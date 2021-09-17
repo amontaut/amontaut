@@ -10,4 +10,3 @@ I'm Alice Montaut, french dev in Paris, France and currently studying at @42Pari
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amontaut&layout=compact&theme=vue-dark)](https://github.com/amontaut/github-readme-stats)
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=amontaut)](https://github.com/mohouyizme/1337-readme)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amontaut&theme=solarized_dark)
