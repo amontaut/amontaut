@@ -8,6 +8,13 @@ I'm Alice Montaut, french dev in Paris, France and currently studying at @42Pari
 > 
 > **2020-now :** Student at **42** 
 
+<div align="center">
+  <div style="display: flex;"flex-direction: "column;">
+    
+![link text](https://img.shields.io/static/v1?label=&message=Management&color=9cf) ![link text](https://img.shields.io/static/v1?label=&message=Finance&color=9cf) ![link text](https://img.shields.io/static/v1?label=&message=C&color=19417A) ![link text](https://img.shields.io/static/v1?label=&message=HTML&color=CE5535) ![link text](https://img.shields.io/static/v1?label=&message=CSS&color=304CDC) ![link text](https://img.shields.io/static/v1?label=&message=JS&color=F3E050) ![link text](https://img.shields.io/static/v1?label=&message=PHP&color=7475A9) ![link text](https://img.shields.io/static/v1?label=&message=MySQL&color=D28F31)
+      </div>
+</div>
+
   <div align="center">
   <div style="display: flex;"flex-direction: "column;">
     
