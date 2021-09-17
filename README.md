@@ -8,6 +8,10 @@ I'm Alice Montaut, french dev in Paris, France and currently studying at @42Pari
 > 
 > **2020-now :** Student at **42** 
 
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=amontaut)](https://github.com/mohouyizme/1337-readme)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amontaut&layout=compact&theme=vue-dark)](https://github.com/amontaut/github-readme-stats)
+  <div align="center">
+  <div style="display: flex;"flex-direction: "column;">
+    
+   [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=amontaut)](https://github.com/mohouyizme/1337-readme)
+    
+  </div>
+</div>
