@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20there%20👋&animation=fadeIn&fontSize=50&fontAlign=50&fontAlignY=30)
 
-I'm Alice Montaut, french dev in Paris, France and currently studying at @42Paris.
-
+I'm Alice Montaut, french dev in Paris, France
+> **11/2020-04/2023 :** Student at 42 School Paris
+>
 > **2014-2019 :** Master in Management and Finance at IESEG Business School
 > 
 > **2020 :** Web dev junior program with Open Classrooms (6 months)
