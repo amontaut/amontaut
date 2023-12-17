@@ -3,7 +3,7 @@
 I'm Alice Montaut, french dev in Paris, France
 > **11/2020-04/2023 :** Student at 42 School Paris
 >
-> **11/2020-03/2021 :** Web dev junior program with Open Classrooms (6 months)
+> **11/2019-03/2020 :** Web dev junior program with Open Classrooms (6 months)
 >
 > **2014-2019 :** Master in Management and Finance at IESEG Business School 
 >
